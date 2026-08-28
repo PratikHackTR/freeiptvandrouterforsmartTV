@@ -40,7 +40,7 @@ phtv/
 
 1. Projeyi indirin veya klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/phtv.git
+   git clone https://github.com/PratikHackTR/freeiptvandrouterforsmartTV.git
    cd phtv
    ```
 
