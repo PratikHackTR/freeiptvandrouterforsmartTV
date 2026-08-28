@@ -41,7 +41,7 @@ phtv/
 1. Projeyi indirin veya klonlayın:
    ```bash
    git clone https://github.com/PratikHackTR/freeiptvandrouterforsmartTV.git
-   cd phtv
+   cd freeiptvandrouterforsmartTV
    ```
 
 2. Sunucuyu başlatın:
