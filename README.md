@@ -95,4 +95,4 @@ Bu proje yalnızca kişisel kullanım amacıyla geliştirilmiş açık kaynaklı
 
 Ayrıca hedef.txt dosyasına bazı kaçak yayın linkleri bırakıp uygulama içerisinden yönlendirme yapmak kesinlikle tavsiye edilmez ve yasadışıdır kaçak yayına karşı olduğumun altını çizerim yayınları lütfen TV'de uydunuzun çekmediği veya frekans desteği bulunmayan kanalların halka açık olarak paylaşılan resmi HLS/M3U8 yayın bağlantılarını kullanarak izleyin
 ---
-<img src="https://i.imgur.com/Hyc6RWh.mp4" width="500" alt="kucukgosterim">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnU4OGwxazhjcXMxaHE2YWJic3Vldmhwbzd5aXg1N3U1ZWp5bXlmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AcAIdE8CUVsHYz456D/giphy.gif" width="500" alt="kucukgosterim">
